@@ -1,0 +1,52 @@
+/* .navbar
+{
+
+    background-color:rgb(255, 0, 170);width: 1800px; height: 150px;
+} */
+.container-fluid
+{
+    
+font-size: 25px;
+padding-top: 60px;
+margin-top: 10px;
+margin: 10px;
+position: absolute;
+left: 500px;
+}
+ .navbar-brand
+ {
+    position: absolute;
+    top: 10px;  
+    left: -200px;
+ }
+ 
+
+   
+.me-auto
+{
+    
+
+padding: 160px;
+ padding-left:100px ;
+margin-left: 120px;
+    font-size: 20px;
+    margin: 80px; 
+    font-size: 30px;
+}
+.button
+{
+    background-color: yellow;
+    font-family: cursive;
+    margin: 10px;
+    position: absolute;
+    top: -9px;
+    right: -10px;;
+    padding-left: 10px;
+    font-size: 30px;
+    height: 158px;
+    width: 201px;
+}
+.palce
+{
+    font-size: 30px;
+}

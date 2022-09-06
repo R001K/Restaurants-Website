@@ -1,0 +1,14 @@
+/* table,tr,th,td{
+    border:2px solid black;
+}
+tr:nth-child(even){
+    background-color: burlywood;
+    line-height: 2em;
+}
+tr:nth-child(odd){
+    background-color: cornflowerblue;
+    line-height: 2em;
+}
+tr:hover{
+    background-color: cyan;
+} */

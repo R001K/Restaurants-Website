@@ -1,0 +1,70 @@
+.Top
+{
+    position: relative;
+    top: 150px;
+    left: 10px;
+    font-size: 50px ;
+}
+
+.img-circle
+{
+    position: relative;
+    top: 180px;
+    left: -420px;
+    size: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+
+.baoji
+{
+    position: relative;
+    top: 180px;
+    left: -320px;
+    size: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;   
+}
+
+
+
+.Bakery
+{
+    position: relative;
+    top: 180px;
+    left: -100px;
+    size: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+.pizza
+{
+    position: relative;
+    top: 180px;
+    left: -260px;
+    size: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+
+}
+.hisar
+{
+    position: relative;
+    top: 250px;
+    left: 10px;
+    font-size: 50px ;
+}  
+
+.text
+{
+    font-size: 24px;
+}
+
+.text1
+{
+    font-size: 20px;
+}

@@ -1,0 +1,16 @@
+.table,tr,th,td{
+    border: 6px solid black;
+}
+tr:nth-child(even)
+{
+    background-color: burlywood;
+    line-height: 20px;
+}
+tr:nth-child(odd)
+{
+    background-color: yellow;
+}
+tr:hover
+{
+   background-color: blue; 
+}
